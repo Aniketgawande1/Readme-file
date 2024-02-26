@@ -1,4 +1,4 @@
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
+![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 <h1 align="center">Hi 👋, I'm Aniket Gawande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif">
