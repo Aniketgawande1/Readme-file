@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aniketgawa88317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aniketgawa88317" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniketgawande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketgawande" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-gawande-33807b290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketgawande" height="30" width="40" /></a>
 <a href="https://fb.com/_aniketgawande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_aniketgawande" height="30" width="40" /></a>
 <a href="https://instagram.com/_aniketgawande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aniketgawande" height="30" width="40" /></a>
 <a href="https://discord.gg/YZ6Xp2QD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YZ6Xp2QD" height="30" width="40" /></a>
